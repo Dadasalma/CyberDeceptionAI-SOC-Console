@@ -1,0 +1,6 @@
+streamlit>=1.35
+plotly>=5.20
+pandas>=2.0
+numpy>=1.24
+# optional, enables the "Auto-refresh (15s)" toggle in the sidebar
+streamlit-autorefresh>=1.0

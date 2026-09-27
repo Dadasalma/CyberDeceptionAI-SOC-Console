@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+
+# Generated/runtime data
+*.log
+fetch_state.json
+sessions_live.jsonl
+actions_log_live.txt
+dataset_ia*.jsonl
+
+# Model binaries and generated plots
+*.pkl
+confusion_matrix_rf.png
+feature_importance.png
